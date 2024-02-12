@@ -28,13 +28,13 @@ const Main = () => {
         <p className="text-[11px] text-slate-400">Few seconds ago</p>
       </div>
       <div className="mb-4 text-right">
-        <div className="bg-sky-200 bg-opacity-100 p-2 px-5 rounded-tl-2xl rounded-bl-2xl rounded-br-2xl inline-block">
+        <div className="bg-indigo-50 bg-opacity-80 p-2 px-5 rounded-tl-2xl rounded-bl-2xl rounded-br-2xl inline-block">
           <p className="text-[14px] text-left" >I have another question</p>
         </div>
         <p className="text-[11px] text-slate-400">Few seconds ago</p>
       </div>
       <div className="mb-4">
-        <div className="bg-[#e6ebeb] bg-opacity-100 w-[230px] py-2 px-3 rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
+        <div className="bg-cyan-100 bg-opacity-100 w-[230px] py-2 px-3 rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
           <p className="text-[14px]">Sure, please type in your query</p>
         </div>
            <p className="text-[11px] text-slate-400">Few seconds ago</p>
@@ -43,6 +43,7 @@ const Main = () => {
         <div className="bg-indigo-50 bg-opacity-80 p-3 rounded-tl-lg rounded-bl-lg rounded-br-lg inline-block">
           <p className="text-[14px] text-left"style={{ width: '300px', wordWrap: 'break-word', padding:"1px" }} >{inputValue} </p>
         </div>
+                   <p className="text-[11px] text-slate-400">Few seconds ago</p>
       </div>
      
       {/* More messages can be added here */}
