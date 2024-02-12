@@ -11,7 +11,7 @@ const Main = () => {
   return (
     <div className="max-w-md mx-auto my-8 p-4 rounded-lg">
       <div className="mb-4">
-        <div className="bg-[#e6ebeb] w-[250px] p-2  rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
+        <div className="bg-[#e6ebeb] bg-opacity-80 w-[250px] p-2  rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
           <p className="text-[14px]">Did not help? Chat with our expert</p>
         
         </div>
