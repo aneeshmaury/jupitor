@@ -21,7 +21,7 @@ const Main = () => {
   
 
       <div className="mb-4">
-        <div className="bg-[#e6ebeb] bg-opacity-100 w-[250px] p-2  rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
+        <div className="bg-cyan-50 bg-opacity-100 w-[250px] p-2  rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
           <p className="text-[14px]">Did not help? Chat with our expert</p>
         
         </div>
