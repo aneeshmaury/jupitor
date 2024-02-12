@@ -15,7 +15,7 @@ const Main = () => {
   <nav className="flex justify-between mb-4 border-b pb-4 pt-3">
 <div className="text-3xl font-bold"><IoIosArrowBack/></div>
 <div className="font-bold text-xl">Chat</div>
-<div></div>
+<div className="invisible">none</div>
 </nav>
     <div className="max-w-md mx-auto p-4 rounded-lg">
   
