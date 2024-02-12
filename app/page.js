@@ -21,7 +21,7 @@ const Main = () => {
   
 
       <div className="mb-4">
-        <div className="bg-cyan-50 bg-opacity-100 w-[250px] p-2  rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
+        <div className="bg-cyan-100 bg-opacity-100 w-[250px] p-2  rounded-tr-2xl rounded-bl-2xl rounded-br-2xl inline-block">
           <p className="text-[14px]">Did not help? Chat with our expert</p>
         
         </div>
@@ -41,7 +41,7 @@ const Main = () => {
       </div>
       <div className="mb-4 text-right">
         <div className="bg-indigo-50 bg-opacity-80 p-3 rounded-tl-lg rounded-bl-lg rounded-br-lg inline-block">
-          <p className="text-[14px] text-left"style={{ width: '250px', wordWrap: 'break-word', padding:"1px" }} >{inputValue} </p>
+          <p className="text-[14px] text-left"style={{ width: '300px', wordWrap: 'break-word', padding:"1px" }} >{inputValue} </p>
         </div>
       </div>
      
